@@ -21,7 +21,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 ### App Walkthough GIF
 
-<img src="https://imgur.com/a/YqNVGPm" width=250><br>
+<img src="https://imgur.com/a/YqNVGPm.gif" width=250><br>
 
 ### Notes
 Making the GIF was a challenge
